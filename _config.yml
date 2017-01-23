@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Cornerstone
+title: Cornerstone.io
 url:
 baseurl:
 google_analytics_key:
@@ -10,15 +10,15 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Easily build a website for your church using Cornerstone.
+description: Cornerstone.io makes it easy to build and customize your church website.
 author:
-  name:
+  name: Cornerstone.io
   email:
   twitter: cornerstoneio
 social:
   name: CornerstoneIO
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - https://cornerstoneio.github.io/
 
 # -----
 # Build
