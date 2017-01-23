@@ -1,13 +1,11 @@
 left_links:
   - name: Blog
     link: /blog/
-  - name: About
-    link: /about/
   - name: Contact
     link: /contact/
 right_links:
   - name:
-    link: https://facebook.com/
+    link: https://www.facebook.com/cornerstoneio/
     new_window: true
     social_icon: Facebook
   - name:
